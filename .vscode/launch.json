@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "CalculatorApp",
+        "request": "launch",
+        "mainClass": "calculator.CalculatorApp",
+        "projectName": "calculator"
+    },
+    {
+        "name": "Gradle: run",
+        "type": "java",
+        "request": "launch",
+        "mainClass": "",
+        "preLaunchTask": "gradle run",
+        "console": "integratedTerminal"
+    }
+]
+}
