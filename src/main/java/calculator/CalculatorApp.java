@@ -28,6 +28,7 @@ public class CalculatorApp extends Application {
     root.setPadding(new Insets(10 * scale, 10 * scale, 10 * scale, 10 * scale));
     root.setHgap(5 * scale);
     root.setVgap(5 * scale);
+    Font.loadFont(getClass().getResourceAsStream("/fonts/casio_fx_9860gii/casio-fx-9860gii.ttf"), 10);
     Label inputLabel = new Label("INPUT:");
     inputLabel.setLabelFor(inputDisplay);
     inputLabel.setFont(Font.font("Casio fx-9860GII", 11 * scale));

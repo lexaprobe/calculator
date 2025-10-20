@@ -12,5 +12,8 @@ Loosely based on the Casio fx-82.
 - Plus all the basic operators and operands that appear on a normal calculator 
 
 ## How to build and run
-On macOS/Linux: `./gradlew run`
+On macOS/Linux: `./gradlew run`  
 On Windows: `gradlew.bat run`
+
+## Resources
+Font used: [Casio fx-9860GII](https://www.dafont.com/casio-fx-9860gii.font)
