@@ -1,0 +1,12 @@
+# Gradle
+.gradle/
+build/
+
+# vscode
+.vscode/
+
+# os
+.DS_Store
+
+# shell scripts
+*.sh
